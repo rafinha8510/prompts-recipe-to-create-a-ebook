@@ -32,8 +32,7 @@ ChatGPT：
 | :------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 |  título  | criar um ebook com as informações de paraolimpicos brasileiros de costas para burj khalifa |  resumo para E-book sobre os Paraolímpicos Brasileiros e o Cenário Internacional |
 | conteúdo | informações dos atletas paraolimpicos brasileiros nas olimpiadas 2024 |
-| https://chatgpt.com/c/67798558-40c4-8012-aeaa-2a70e97504baq |
-| :------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| link     | https://chatgpt.com/c/67798558-40c4-8012-aeaa-2a70e97504baq |
 
 ## ✨ Features
 

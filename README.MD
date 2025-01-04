@@ -14,6 +14,7 @@ https://chatgpt.com/c/67798558-40c4-8012-aeaa-2a70e97504ba
 https://app.leonardo.ai/image-generation
 https://gemini.google.com/app/753992d7a3c5113b
 
+Clique aqui para ler:
 https://github.com/rafinha8510/prompts-recipe-to-create-a-ebook/blob/main/Paraolimpicos%20brasileiros%20e%20cenario%20internacional.pdf
 
 ## 💻 Tecnologias utilizadas no projeto

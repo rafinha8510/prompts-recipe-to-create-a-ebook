@@ -2,7 +2,6 @@ https://github.com/rafinha8510/prompts-recipe-to-create-a-ebook/edit/main/README
 
 -------
 
-
 # Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
@@ -14,8 +13,10 @@ https://chatgpt.com/c/67798558-40c4-8012-aeaa-2a70e97504ba
 https://app.leonardo.ai/image-generation
 https://gemini.google.com/app/753992d7a3c5113b
 
+
 Clique aqui para ler:
 https://github.com/rafinha8510/prompts-recipe-to-create-a-ebook/blob/main/Paraolimpicos%20brasileiros%20e%20cenario%20internacional.pdf
+
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -27,12 +28,12 @@ https://github.com/rafinha8510/prompts-recipe-to-create-a-ebook/blob/main/Paraol
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | criar um ebook com as informação de paraolimpicos brasileiros de costas para burj khalifa |  resumo para E-book sobre os Paraolímpicos Brasileiros e o Cenário Internacional |
-| conteúdo | informações do atletas paraolimpicos brasileiro nas olimpiadas 2024 |
-https://chatgpt.com/c/67798558-40c4-8012-aeaa-2a70e97504ba q|
-
+|   Ação   | prompt  |                                                                                                                                                                                                                                                                        
+| :------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  título  | criar um ebook com as informações de paraolimpicos brasileiros de costas para burj khalifa |  resumo para E-book sobre os Paraolímpicos Brasileiros e o Cenário Internacional |
+| conteúdo | informações dos atletas paraolimpicos brasileiros nas olimpiadas 2024 |
+| https://chatgpt.com/c/67798558-40c4-8012-aeaa-2a70e97504baq |
+| :------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ✨ Features
 
@@ -42,11 +43,11 @@ https://chatgpt.com/c/67798558-40c4-8012-aeaa-2a70e97504ba q|
 ## 📚 Materiais
 
 - Imagens utilizadas da criação do Gemini e ChatGPT
-- Ebook gerado com o apoio ChatGPT, Gemini e PowerPaint na imagem da tocha
+- Ebook gerado com o apoio ChatGPT, Gemini e Paint 3D da imagem tocha olimpica
 
 ## 🛠️ Instruções de execução
 
-Os prompts utilizado como apoio para a criação e as ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point e power paint.
+Os prompts utilizados como apoio para as criações e as ferramentas sugeridas para gerarem o material base e utilizado as ferramentas de edições de documentos como: power point e paint 3D.
 
 ---
 

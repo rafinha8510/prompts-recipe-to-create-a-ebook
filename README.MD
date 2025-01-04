@@ -14,6 +14,8 @@ https://chatgpt.com/c/67798558-40c4-8012-aeaa-2a70e97504ba
 https://app.leonardo.ai/image-generation
 https://gemini.google.com/app/753992d7a3c5113b
 
+
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT]
